@@ -1,0 +1,6 @@
+c:\users\ники\documents\visual studio 2015\Projects\Енкапсулация\Енкапсулация\bin\Debug\Енкапсулация.exe.config
+c:\users\ники\documents\visual studio 2015\Projects\Енкапсулация\Енкапсулация\obj\Debug\Енкапсулация.csprojResolveAssemblyReference.cache
+c:\users\ники\documents\visual studio 2015\Projects\Енкапсулация\Енкапсулация\bin\Debug\Енкапсулация.exe
+c:\users\ники\documents\visual studio 2015\Projects\Енкапсулация\Енкапсулация\bin\Debug\Енкапсулация.pdb
+c:\users\ники\documents\visual studio 2015\Projects\Енкапсулация\Енкапсулация\obj\Debug\Енкапсулация.exe
+c:\users\ники\documents\visual studio 2015\Projects\Енкапсулация\Енкапсулация\obj\Debug\Енкапсулация.pdb
